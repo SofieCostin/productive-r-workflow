@@ -1,0 +1,31 @@
+{
+    "id": "F0B5BB19",
+    "path": "C:/Users/sofie/Desktop/productive-r-workflow/analysis.qmd",
+    "project_path": "analysis.qmd",
+    "type": "quarto_markdown",
+    "hash": "3038323902",
+    "contents": "",
+    "dirty": false,
+    "created": 1756687930004.0,
+    "source_on_save": true,
+    "relative_order": 2,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "188:0",
+        "cursorPosition": "17,25",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756693239,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756693239340,
+    "read_only": false,
+    "read_only_alternatives": []
+}
